@@ -38,7 +38,7 @@ The About page provides additional information about the property. Users can vie
 
 # How to Use
 
-* 1º Option: Access the website below: http://...
+* 1º Option: Access the website below: [http://...](https://italian-restaurant-henna.vercel.app/)
 
 * 2º Option: Download the code and run it in your favorite code editor by following the steps below:
 
